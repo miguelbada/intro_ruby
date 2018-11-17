@@ -43,11 +43,11 @@ describe 'intro test' do
     expect(numeros.count).to eq 5
     expect(numeros.count { |n| n > 3 }).to eq 2
     expect(anuncios.select { |a| a[:ciudad] == 'Tandil' }.collect { |p| p[:plataforma] }.last).to eq 12
-    peso_promedio = mancuspias.map{|m| m[:peso]}.inject(0) { |accum, it| accum + it } / mancuspias.length
+    peso_promedio = mancuspias.map { |m| m[:peso] }.inject(0) { |accum, it| accum + it } / mancuspias.length
 
-    maxima_edad = mancuspias.map{|m| m[:edad]}.sort.last
-    edades_mas_pesadas = mancuspias.sort{|m1, m2|m2[:peso] <=> m1[:peso]}.take(3).map{ |m| m[:edad] }
-    cantidad_menores_de_3 = mancuspias.select{ |m| m[:edad] < 3 }.count
+    maxima_edad = mancuspias.map { |m| m[:edad] }.sort.last
+    edades_mas_pesadas = mancuspias.sort { |m1, m2|m2[:peso] <=> m1[:peso] }.take(3).map{ |m| m[:edad] }
+    cantidad_menores_de_3 = mancuspias.select { |m| m[:edad] < 3 }.count
 
     numeros.push 6
     numeros.push 7
@@ -65,7 +65,7 @@ describe 'intro test' do
 
     expect(otros_numeros.equal?(numeros)).to eq true
 
-    Module.instance_methods.include? :new
+    expect(Module.instance_methods.include? :new).to eq false
     Class.instance_methods.include? :new
 
   end
