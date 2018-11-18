@@ -4,7 +4,7 @@ class Persona
   # Construye getters y setters.
   attr_accessor :felicidad
 
-  def self.comer(calorias)
+  def comer(calorias)
     @felicidad += calorias * 0.001
   end
 end

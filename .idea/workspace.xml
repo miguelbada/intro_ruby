@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0b8e5d6-64e6-44ad-afed-2a6511e9568e" name="Default Changelist" comment="" />
+    <list default="true" id="f0b8e5d6-64e6-44ad-afed-2a6511e9568e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/Metaprogramacion.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/Metaprogramacion.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Persona.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Persona.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,44 +13,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/intro_Ruby@Intro_ruby_spec.rcov" NAME="Intro_ruby_spec Coverage Results" MODIFIED="1542133120061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="intro_Ruby" />
+    <SUITE FILE_PATH="coverage/intro_Ruby@Intro_ruby_spec.rcov" NAME="Intro_ruby_spec Coverage Results" MODIFIED="1542468268800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="intro_Ruby" />
     <SUITE FILE_PATH="coverage/intro_Ruby@Intro_ruby.rcov" NAME="Intro_ruby Coverage Results" MODIFIED="1542060099860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="intro_Ruby" />
     <SUITE FILE_PATH="coverage/intro_Ruby@Unnamed.rcov" NAME="Intro_ruby_spec Coverage Results" MODIFIED="1542072984306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="intro_Ruby" />
-    <SUITE FILE_PATH="coverage/intro_Ruby@Metaprogramacion.rcov" NAME="Metaprogramacion Coverage Results" MODIFIED="1542133127362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="intro_Ruby" />
+    <SUITE FILE_PATH="coverage/intro_Ruby@Metaprogramacion.rcov" NAME="Metaprogramacion Coverage Results" MODIFIED="1542472351353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="intro_Ruby" />
+    <SUITE FILE_PATH="coverage/intro_Ruby@Run_spec__Metaprogramacion___intro_ruby.rcov" NAME="Run spec 'Metaprogramacion': intro_ruby Coverage Results" MODIFIED="1542481102049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="intro_Ruby" />
     <SUITE FILE_PATH="coverage/intro_Ruby@Intro_Ruby_Spec.rcov" NAME="Intro_Ruby_Spec Coverage Results" MODIFIED="1542057737108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="intro_Ruby" />
+    <SUITE FILE_PATH="coverage/intro_Ruby@Run_spec__Array_spec___intro_Ruby.rcov" NAME="Run spec 'Array_spec': intro_ruby Coverage Results" MODIFIED="1542468693585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="intro_Ruby" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1689200297">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Gemfile" value="1" />
-          <entry key="rb" value="11" />
+          <entry key="rb" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Ruby" value="11" />
+          <entry key="Ruby" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="1" />
-          <entry key="rb" value="1228" />
+          <entry key="rb" value="1825" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ruby" value="1229" />
+          <entry key="Ruby" value="1826" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -57,26 +64,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+        <entry file="file://$PROJECT_DIR$/spec/Intro_ruby_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/Intro_ruby_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-644" />
-          </provider>
+        <entry file="file://$PROJECT_DIR$/spec/Array_spec.rb">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/Metaprogramacion.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -84,17 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Zombie.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sobreviviente.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -102,13 +98,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Persona.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="210">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,13 +116,13 @@
         <option value="$PROJECT_DIR$/spec/Intro_ruby.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/src/Object.rb" />
-        <option value="$PROJECT_DIR$/src/Zombie.rb" />
         <option value="$PROJECT_DIR$/src/Sobreviviente.rb" />
         <option value="$PROJECT_DIR$/src/Salero.rb" />
         <option value="$PROJECT_DIR$/src/Cuenta.rb" />
         <option value="$PROJECT_DIR$/src/Stringg.rb" />
         <option value="$PROJECT_DIR$/spec/Intro_ruby_spec.rb" />
         <option value="$PROJECT_DIR$/src/Persona.rb" />
+        <option value="$PROJECT_DIR$/src/Zombie.rb" />
         <option value="$PROJECT_DIR$/spec/Metaprogramacion.rb" />
       </list>
     </option>
@@ -134,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
     <option name="width" value="1014" />
     <option name="height" value="741" />
@@ -156,6 +155,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -187,7 +187,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spec/Intro_ruby.rb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spec" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
@@ -204,8 +204,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.Metaprogramacion">
-    <configuration name="Intro_ruby_spec" type="RSpecRunConfigurationType" factoryName="RSpec">
+  <component name="RunManager" selected="RSpec.Run spec 'Metaprogramacion': intro_ruby">
+    <configuration name="Run spec 'Array_spec': intro_ruby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="intro_Ruby" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/Array_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run spec 'Intro_ruby_spec': intro_ruby" type="RSpecRunConfigurationType" factoryName="RSpec">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="intro_Ruby" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -235,13 +268,14 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Intro_Ruby_Spec" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="Run spec 'Metaprogramacion': intro_ruby" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="intro_Ruby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/spec" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
@@ -249,26 +283,19 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/Intro_Ruby_Spec.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Intro_ruby_spec" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="intro_Ruby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/spec" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/Intro_ruby_spec.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/Metaprogramacion.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
     <configuration name="Metaprogramacion" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
@@ -290,16 +317,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="RSpec.Intro_ruby_spec" />
-      <item itemvalue="Ruby.Intro_Ruby_Spec" />
-      <item itemvalue="Ruby.Intro_ruby_spec" />
+      <item itemvalue="RSpec.Run spec 'Metaprogramacion': intro_ruby" />
+      <item itemvalue="RSpec.Run spec 'Intro_ruby_spec': intro_ruby" />
+      <item itemvalue="RSpec.Run spec 'Array_spec': intro_ruby" />
       <item itemvalue="Ruby.Metaprogramacion" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Ruby.Metaprogramacion" />
-        <item itemvalue="Ruby.Intro_ruby_spec" />
-        <item itemvalue="Ruby.Intro_Ruby_Spec" />
+        <item itemvalue="RSpec.Run spec 'Array_spec': intro_ruby" />
       </list>
     </recent_temporary>
   </component>
@@ -317,43 +343,46 @@
       <workItem from="1542055885688" duration="1566000" />
       <workItem from="1542057488576" duration="13892000" />
       <workItem from="1542117148062" duration="8225000" />
+      <workItem from="1542467979740" duration="73000" />
+      <workItem from="1542468257852" duration="458000" />
+      <workItem from="1542468747804" duration="8889000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Intro_ruby_spec - 2018.11.12 at 22h 36m 25s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 54m 44s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Intro_ruby_spec - 2018.11.13 at 12h 12m 22s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 55m 16s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Intro_ruby_spec - 2018.11.13 at 12h 12m 59s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 56m 14s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Intro_ruby_spec - 2018.11.13 at 12h 15m 04s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 56m 37s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Intro_ruby_spec - 2018.11.13 at 12h 17m 27s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 56m 55s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Intro_ruby_spec - 2018.11.13 at 12h 18m 46s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 57m 10s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Intro_ruby_spec - 2018.11.13 at 12h 23m 56s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 57m 22s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Intro_ruby_spec - 2018.11.13 at 15h 15m 31s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 57m 47s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Intro_ruby_spec - 2018.11.13 at 15h 16m 56s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 58m 10s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Intro_ruby_spec - 2018.11.13 at 15h 18m 41s.xml">
-      <configuration name="Intro_ruby_spec" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Metaprogramacion'__intro_ruby - 2018.11.17 at 15h 58m 23s.xml">
+      <configuration name="Run spec 'Metaprogramacion': intro_ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23683000" />
+    <option name="totallyTimeSpent" value="33103000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,23 +394,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1024" height="743" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1024" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2597137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27709612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989775" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969325" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969325" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989775" weight="0.32899022" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989775" weight="0.32843137" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4989775" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4989775" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5030675" side_tool="true" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -401,37 +429,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/spec/Intro_Ruby_Spec.rb" />
     <entry file="file://$PROJECT_DIR$/spec/intro_ruby_spec.rb" />
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sobreviviente.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zombie.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/rubygems/resolver/conflict.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="99" column="6" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/Intro_ruby_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-644" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cuenta.rb">
@@ -455,17 +457,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs25/object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="587" column="8" selection-start-line="587" selection-start-column="8" selection-end-line="587" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs25/module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="948" column="8" selection-start-line="948" selection-start-column="8" selection-end-line="948" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sobreviviente.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Array_spec.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Intro_ruby_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Persona.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="210">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zombie.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/Metaprogramacion.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
         </state>
       </provider>
     </entry>
